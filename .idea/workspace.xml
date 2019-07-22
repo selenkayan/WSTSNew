@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6aefd9c-6d2f-4cfc-81dc-0faf0aed0f69" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/URL_Scanner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="28" selection-end-line="25" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wsts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="84" column="81" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blacklist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42296">
+              <caret line="2488" column="17" selection-start-line="2488" selection-start-column="17" selection-end-line="2488" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whitelist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5117">
+              <caret line="301" column="16" selection-start-line="301" selection-start-column="16" selection-end-line="301" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/original.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding>
+                <element signature="e#7766#7773#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="99" selection-start-column="99" selection-end-column="99" />
+              <folding>
+                <element signature="e#2594#2598#0" expanded="true" />
+                <element signature="e#2602#2606#0" expanded="true" />
+                <element signature="e#2632#2636#0" expanded="true" />
+                <element signature="e#2640#2644#0" expanded="true" />
+                <element signature="e#3451#3455#0" expanded="true" />
+                <element signature="e#3490#3494#0" expanded="true" />
+                <element signature="e#3496#3500#0" expanded="true" />
+                <element signature="e#3504#3508#0" expanded="true" />
+                <element signature="e#3510#3514#0" expanded="true" />
+                <element signature="e#3519#3523#0" expanded="true" />
+                <element signature="e#3538#3542#0" expanded="true" />
+                <element signature="e#3548#3552#0" expanded="true" />
+                <element signature="e#3554#3558#0" expanded="true" />
+                <element signature="e#3603#3607#0" expanded="true" />
+                <element signature="e#3609#3613#0" expanded="true" />
+                <element signature="e#3660#3664#0" expanded="true" />
+                <element signature="e#3666#3670#0" expanded="true" />
+                <element signature="e#3741#3745#0" expanded="true" />
+                <element signature="e#3747#3751#0" expanded="true" />
+                <element signature="e#3828#3832#0" expanded="true" />
+                <element signature="e#3839#3843#0" expanded="true" />
+                <element signature="e#3848#3852#0" expanded="true" />
+                <element signature="e#3859#3863#0" expanded="true" />
+                <element signature="e#3868#3872#0" expanded="true" />
+                <element signature="e#5101#5105#0" expanded="true" />
+                <element signature="e#5175#5179#0" expanded="true" />
+                <element signature="e#5181#5185#0" expanded="true" />
+                <element signature="e#5334#5338#0" expanded="true" />
+                <element signature="e#5340#5344#0" expanded="true" />
+                <element signature="e#5389#5393#0" expanded="true" />
+                <element signature="e#5395#5399#0" expanded="true" />
+                <element signature="e#5442#5446#0" expanded="true" />
+                <element signature="e#5448#5452#0" expanded="true" />
+                <element signature="e#5505#5509#0" expanded="true" />
+                <element signature="e#5511#5515#0" expanded="true" />
+                <element signature="e#5568#5572#0" expanded="true" />
+                <element signature="e#5574#5578#0" expanded="true" />
+                <element signature="e#5623#5627#0" expanded="true" />
+                <element signature="e#5629#5633#0" expanded="true" />
+                <element signature="e#5705#5709#0" expanded="true" />
+                <element signature="e#6959#6963#0" expanded="true" />
+                <element signature="e#7026#7030#0" expanded="true" />
+                <element signature="e#7032#7036#0" expanded="true" />
+                <element signature="e#7118#7122#0" expanded="true" />
+                <element signature="e#7124#7128#0" expanded="true" />
+                <element signature="e#7180#7184#0" expanded="true" />
+                <element signature="e#7186#7190#0" expanded="true" />
+                <element signature="e#7236#7240#0" expanded="true" />
+                <element signature="e#7242#7246#0" expanded="true" />
+                <element signature="e#7293#7297#0" expanded="true" />
+                <element signature="e#7299#7303#0" expanded="true" />
+                <element signature="e#7383#7387#0" expanded="true" />
+                <element signature="e#7522#7526#0" expanded="true" />
+                <element signature="e#7591#7595#0" expanded="true" />
+                <element signature="e#7597#7601#0" expanded="true" />
+                <element signature="e#7685#7689#0" expanded="true" />
+                <element signature="e#7691#7695#0" expanded="true" />
+                <element signature="e#7766#7770#0" expanded="true" />
+                <element signature="e#7772#7776#0" expanded="true" />
+                <element signature="e#7822#7826#0" expanded="true" />
+                <element signature="e#7828#7832#0" expanded="true" />
+                <element signature="e#7879#7883#0" expanded="true" />
+                <element signature="e#8036#8040#0" expanded="true" />
+                <element signature="e#8105#8109#0" expanded="true" />
+                <element signature="e#8111#8115#0" expanded="true" />
+                <element signature="e#8199#8203#0" expanded="true" />
+                <element signature="e#8205#8209#0" expanded="true" />
+                <element signature="e#8261#8265#0" expanded="true" />
+                <element signature="e#8422#8426#0" expanded="true" />
+                <element signature="e#8430#8434#0" expanded="true" />
+                <element signature="e#8550#8554#0" expanded="true" />
+                <element signature="e#8618#8622#0" expanded="true" />
+                <element signature="e#8624#8628#0" expanded="true" />
+                <element signature="e#8693#8697#0" expanded="true" />
+                <element signature="e#8935#8939#0" expanded="true" />
+                <element signature="e#9003#9007#0" expanded="true" />
+                <element signature="e#9009#9013#0" expanded="true" />
+                <element signature="e#9059#9063#0" expanded="true" />
+                <element signature="e#9065#9069#0" expanded="true" />
+                <element signature="e#9116#9120#0" expanded="true" />
+                <element signature="e#9122#9126#0" expanded="true" />
+                <element signature="e#9191#9195#0" expanded="true" />
+                <element signature="e#9197#9201#0" expanded="true" />
+                <element signature="e#9266#9270#0" expanded="true" />
+                <element signature="e#9272#9276#0" expanded="true" />
+                <element signature="e#9324#9328#0" expanded="true" />
+                <element signature="e#9750#9754#0" expanded="true" />
+                <element signature="e#9797#9801#0" expanded="true" />
+                <element signature="e#10041#10045#0" expanded="true" />
+                <element signature="e#10095#10099#0" expanded="true" />
+                <element signature="e#10101#10105#0" expanded="true" />
+                <element signature="e#10161#10165#0" expanded="true" />
+                <element signature="e#10843#10847#0" expanded="true" />
+                <element signature="e#11096#11100#0" expanded="true" />
+                <element signature="e#11221#11225#0" expanded="true" />
+                <element signature="e#11675#11679#0" expanded="true" />
+                <element signature="e#11816#11820#0" expanded="true" />
+                <element signature="e#13601#13605#0" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>try</find>
+      <find>urllib</find>
+      <find>original_line</find>
+      <find>outfile</find>
+      <find>outfil</find>
+      <find>original</find>
+      <find>out</find>
+      <find>url_list</find>
+      <find>https://drive.google.com</find>
+      <find>aladel</find>
+      <find>alert</find>
+      <find>aladel.net</find>
+      <find>http</find>
+      <find>analyze</find>
+      <find>group</find>
+      <find>\</find>
+      <find>\n</find>
+      <find>f</find>
+      <find>print</find>
+      <find>main</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/original.html" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/whitelist.txt" />
+        <option value="$PROJECT_DIR$/blacklist.txt" />
+        <option value="$PROJECT_DIR$/Test2.py" />
+        <option value="$PROJECT_DIR$/son.py" />
+        <option value="$PROJECT_DIR$/ScannerNew.py" />
+        <option value="$PROJECT_DIR$/Test3.py" />
+        <option value="$PROJECT_DIR$/Text.py" />
+        <option value="$PROJECT_DIR$/enson.py" />
+        <option value="$PROJECT_DIR$/Wsts.py" />
+        <option value="$PROJECT_DIR$/URL_Scanner.py" />
+        <option value="$USER_HOME$/Desktop/Notes/HavelsanStaj/scanner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="490" />
+    <option name="y" value="5" />
+    <option name="width" value="1425" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WSTS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WSTS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\selen\PycharmProjects\WSTS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.URL_Scanner">
+    <configuration name="ScannerNew" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WSTS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScannerNew.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WSTS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="URL_Scanner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WSTS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\selen\PycharmProjects\WSTS\v\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URL_Scanner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Wsts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WSTS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\selen\PycharmProjects\WSTS\v\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wsts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enson" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WSTS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\selen\PycharmProjects\WSTS\URL_Scanner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ScannerNew" />
+      <item itemvalue="Python.Text" />
+      <item itemvalue="Python.URL_Scanner" />
+      <item itemvalue="Python.Wsts" />
+      <item itemvalue="Python.enson" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.URL_Scanner" />
+        <item itemvalue="Python.Wsts" />
+        <item itemvalue="Python.Text" />
+        <item itemvalue="Python.ScannerNew" />
+        <item itemvalue="Python.enson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6aefd9c-6d2f-4cfc-81dc-0faf0aed0f69" name="Default Changelist" comment="" />
+      <created>1561547261517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561547261517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11228534" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4059406" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3281471" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-466342110/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1214">
+          <caret line="4791" column="8" lean-forward="true" selection-start-line="4791" selection-start-column="8" selection-end-line="4791" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aladel.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/son.py" />
+    <entry file="file://$PROJECT_DIR$/ScannerNew.py" />
+    <entry file="file://$USER_HOME$/Desktop/Notes/HavelsanStaj/scanner.py" />
+    <entry file="file://$PROJECT_DIR$/URL_Scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-end-line="25" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wsts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="84" column="81" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blacklist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42296">
+          <caret line="2488" column="17" selection-start-line="2488" selection-start-column="17" selection-end-line="2488" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whitelist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5117">
+          <caret line="301" column="16" selection-start-line="301" selection-start-column="16" selection-end-line="301" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#7766#7773#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="99" selection-start-column="99" selection-end-column="99" />
+          <folding>
+            <element signature="e#2594#2598#0" expanded="true" />
+            <element signature="e#2602#2606#0" expanded="true" />
+            <element signature="e#2632#2636#0" expanded="true" />
+            <element signature="e#2640#2644#0" expanded="true" />
+            <element signature="e#3451#3455#0" expanded="true" />
+            <element signature="e#3490#3494#0" expanded="true" />
+            <element signature="e#3496#3500#0" expanded="true" />
+            <element signature="e#3504#3508#0" expanded="true" />
+            <element signature="e#3510#3514#0" expanded="true" />
+            <element signature="e#3519#3523#0" expanded="true" />
+            <element signature="e#3538#3542#0" expanded="true" />
+            <element signature="e#3548#3552#0" expanded="true" />
+            <element signature="e#3554#3558#0" expanded="true" />
+            <element signature="e#3603#3607#0" expanded="true" />
+            <element signature="e#3609#3613#0" expanded="true" />
+            <element signature="e#3660#3664#0" expanded="true" />
+            <element signature="e#3666#3670#0" expanded="true" />
+            <element signature="e#3741#3745#0" expanded="true" />
+            <element signature="e#3747#3751#0" expanded="true" />
+            <element signature="e#3828#3832#0" expanded="true" />
+            <element signature="e#3839#3843#0" expanded="true" />
+            <element signature="e#3848#3852#0" expanded="true" />
+            <element signature="e#3859#3863#0" expanded="true" />
+            <element signature="e#3868#3872#0" expanded="true" />
+            <element signature="e#5101#5105#0" expanded="true" />
+            <element signature="e#5175#5179#0" expanded="true" />
+            <element signature="e#5181#5185#0" expanded="true" />
+            <element signature="e#5334#5338#0" expanded="true" />
+            <element signature="e#5340#5344#0" expanded="true" />
+            <element signature="e#5389#5393#0" expanded="true" />
+            <element signature="e#5395#5399#0" expanded="true" />
+            <element signature="e#5442#5446#0" expanded="true" />
+            <element signature="e#5448#5452#0" expanded="true" />
+            <element signature="e#5505#5509#0" expanded="true" />
+            <element signature="e#5511#5515#0" expanded="true" />
+            <element signature="e#5568#5572#0" expanded="true" />
+            <element signature="e#5574#5578#0" expanded="true" />
+            <element signature="e#5623#5627#0" expanded="true" />
+            <element signature="e#5629#5633#0" expanded="true" />
+            <element signature="e#5705#5709#0" expanded="true" />
+            <element signature="e#6959#6963#0" expanded="true" />
+            <element signature="e#7026#7030#0" expanded="true" />
+            <element signature="e#7032#7036#0" expanded="true" />
+            <element signature="e#7118#7122#0" expanded="true" />
+            <element signature="e#7124#7128#0" expanded="true" />
+            <element signature="e#7180#7184#0" expanded="true" />
+            <element signature="e#7186#7190#0" expanded="true" />
+            <element signature="e#7236#7240#0" expanded="true" />
+            <element signature="e#7242#7246#0" expanded="true" />
+            <element signature="e#7293#7297#0" expanded="true" />
+            <element signature="e#7299#7303#0" expanded="true" />
+            <element signature="e#7383#7387#0" expanded="true" />
+            <element signature="e#7522#7526#0" expanded="true" />
+            <element signature="e#7591#7595#0" expanded="true" />
+            <element signature="e#7597#7601#0" expanded="true" />
+            <element signature="e#7685#7689#0" expanded="true" />
+            <element signature="e#7691#7695#0" expanded="true" />
+            <element signature="e#7766#7770#0" expanded="true" />
+            <element signature="e#7772#7776#0" expanded="true" />
+            <element signature="e#7822#7826#0" expanded="true" />
+            <element signature="e#7828#7832#0" expanded="true" />
+            <element signature="e#7879#7883#0" expanded="true" />
+            <element signature="e#8036#8040#0" expanded="true" />
+            <element signature="e#8105#8109#0" expanded="true" />
+            <element signature="e#8111#8115#0" expanded="true" />
+            <element signature="e#8199#8203#0" expanded="true" />
+            <element signature="e#8205#8209#0" expanded="true" />
+            <element signature="e#8261#8265#0" expanded="true" />
+            <element signature="e#8422#8426#0" expanded="true" />
+            <element signature="e#8430#8434#0" expanded="true" />
+            <element signature="e#8550#8554#0" expanded="true" />
+            <element signature="e#8618#8622#0" expanded="true" />
+            <element signature="e#8624#8628#0" expanded="true" />
+            <element signature="e#8693#8697#0" expanded="true" />
+            <element signature="e#8935#8939#0" expanded="true" />
+            <element signature="e#9003#9007#0" expanded="true" />
+            <element signature="e#9009#9013#0" expanded="true" />
+            <element signature="e#9059#9063#0" expanded="true" />
+            <element signature="e#9065#9069#0" expanded="true" />
+            <element signature="e#9116#9120#0" expanded="true" />
+            <element signature="e#9122#9126#0" expanded="true" />
+            <element signature="e#9191#9195#0" expanded="true" />
+            <element signature="e#9197#9201#0" expanded="true" />
+            <element signature="e#9266#9270#0" expanded="true" />
+            <element signature="e#9272#9276#0" expanded="true" />
+            <element signature="e#9324#9328#0" expanded="true" />
+            <element signature="e#9750#9754#0" expanded="true" />
+            <element signature="e#9797#9801#0" expanded="true" />
+            <element signature="e#10041#10045#0" expanded="true" />
+            <element signature="e#10095#10099#0" expanded="true" />
+            <element signature="e#10101#10105#0" expanded="true" />
+            <element signature="e#10161#10165#0" expanded="true" />
+            <element signature="e#10843#10847#0" expanded="true" />
+            <element signature="e#11096#11100#0" expanded="true" />
+            <element signature="e#11221#11225#0" expanded="true" />
+            <element signature="e#11675#11679#0" expanded="true" />
+            <element signature="e#11816#11820#0" expanded="true" />
+            <element signature="e#13601#13605#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
